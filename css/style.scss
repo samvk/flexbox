@@ -1,0 +1,11 @@
+    @import "compass/reset";
+.container-one {
+    display: flex;
+    flex-direction: row-reverse;
+    div {
+        width: 50px;
+        height: 50px;
+        background-color: green;
+        font-size: 10px;
+    }
+}
